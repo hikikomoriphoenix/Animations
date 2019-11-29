@@ -1,0 +1,2 @@
+include ':app', ':3dflipanimation'
+rootProject.name='Animations'
