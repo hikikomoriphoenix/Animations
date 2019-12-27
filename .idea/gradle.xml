@@ -13,6 +13,7 @@
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/expandingbottomsheet" />
             <option value="$PROJECT_DIR$/expandingbottomsheet2" />
+            <option value="$PROJECT_DIR$/gradientanimation" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

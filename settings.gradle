@@ -1,2 +1,2 @@
-include ':app', ':3dflipanimation', ':expandingbottomsheet', ':expandingbottomsheet2', ':animationdrawable'
+include ':app', ':3dflipanimation', ':expandingbottomsheet', ':expandingbottomsheet2', ':animationdrawable', ':gradientanimation'
 rootProject.name='Animations'
